@@ -1,0 +1,7 @@
+1111,password,Teo,Test
+1212,password2,Teofil,Chira
+1234,password3,Dan,Hera
+3333,david,David,Gatta
+4321,pass,Ioana,Goia
+4322,test,test,test
+4444,hogehoge,Horea,Nem
